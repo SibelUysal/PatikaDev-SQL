@@ -2,9 +2,9 @@
 
 SELECT *
 FROM country 
-WHERE country LIKE 'A%a
+WHERE country LIKE 'A%a'
 
---country tablosunda bulunan country sütunundaki ülke isimlerinden en az 6 karakterden oluşan ve sonu n karakteri ile sonlananları sıralama
+--country tablosunda bulunan country sütunundaki ülke isimlerinden en az 6 karakterden oluşan ve sonu 'n' karakteri ile sonlananları sıralama
 
 SELECT *
 FROM country 
